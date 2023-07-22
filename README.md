@@ -22,11 +22,13 @@ This chatbot is a custom-built conversational AI that can answer your questions 
 ## How to use 
 
 - Clone the repo into your local setup
-`git clone https://github.com/4N1Z/lawGPT.git`
+  
+   `git clone https://github.com/4N1Z/lawGPT.git`
 
 - Then do the installations
-`!pip install llama_index
-  !pip install langchain `
 
-- Get you API KEY form OPEN AI 
-`os.environ['OPENAI_API_KEY'] = "REPLACE_WiTH_YOUR_KEY"`
+  `pip install -r requirements.txt `
+
+- Get you API KEY form OPEN AI
+  
+   `os.environ['OPENAI_API_KEY'] = "REPLACE_WiTH_YOUR_KEY"`
