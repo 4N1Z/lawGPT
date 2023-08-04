@@ -1,7 +1,8 @@
 ## Law GPT
 #### A custom Knowledge base LLM Application
 
-This chatbot is a custom-built conversational AI that can answer your questions about Indian laws. It is powered by a large knowledge base of Indian legal information, and can provide comprehensive and informative answers to even the most complex questions.
+This chatbot is a custom-built conversational AI that can answer your questions about Indian laws. It is powered by a large knowledge base of Indian legal information, and can provide comprehensive and informative answers to even the most complex questions. 
+Users can chat with the AI using custom data in a vector database, or they can feed the AI PDFs of legal documents and ask questions. The AI uses Langchain and prompt engineering techniques to generate accurate and informative responses.
 
 - The datas are taken [from](https://www.mha.gov.in/en/acts?page=1)
 
